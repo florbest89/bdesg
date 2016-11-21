@@ -2,7 +2,7 @@
 
 Para instalar la extensión:
 - Descargar del repo la carpeta de openlayers
-- Copiar todos los archivos y pegarlos (reemplazando) en el path de instalación del plugin.
+- Copiar todos los archivos y pegarlos (reemplazando) en el path de instalación del plugin. (".......\.qgis2\python\plugins\openlayers_plugin")
 
 
 -----------------------------------------------------------------------------------------
